@@ -1,0 +1,21 @@
+body {
+    background-image: url("js_img/Av027Zh.webp");
+    background-size:cover;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+    font-size: 30px;
+    text-align: center;
+}
+button {
+    background-color: goldenrod;
+    color:black;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+#one {
+    color:goldenrod;
+    font-size: 80px;
+}
